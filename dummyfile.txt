@@ -1,4 +1,7 @@
 this is a dummy file
+<<<<<<< HEAD
 
 i am adding this line to the main branch only
 changes made. fetch n check again.
+=======
+>>>>>>> parent of 039f02b (adding the changed file)
